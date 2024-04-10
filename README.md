@@ -4,7 +4,7 @@ This repository contains a clone of the Amazon home page built using HTML, CSS, 
 
 ## Demo
 
-You can try out the live demo of the project [here](#).
+You can try out the live demo of the project [here](https://sagnikbose-11-01.github.io/Amazon-Clone/).
 
 ## Features
 
