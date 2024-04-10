@@ -2,9 +2,9 @@
 
 This repository contains a clone of the Amazon home page built using HTML, CSS, and JavaScript. The clone aims to replicate the layout and functionality of the Amazon home page to demonstrate frontend web development skills.
 
-## Preview
+## Demo
 
-![Amazon Home Page Clone Preview](preview.png)
+You can try out the live demo of the project [here](#).
 
 ## Features
 
