@@ -11,6 +11,8 @@ You can try out the live demo of the project [here](https://sagnikbose-11-01.git
 - Header: Includes navigation links, search bar, and account options similar to the original Amazon home page.
 - Product sections: Displays various product categories with images, titles, and prices.
 - Product carousel: Implements a carousel/slider feature for showcasing featured products or deals.
+- Image slider with mouse scrolling: Incorporates an image slider feature that allows users to navigate through images by scrolling with the mouse wheel. This intuitive navigation enhances the user experience by providing a dynamic and interactive way to view content.
+
 
 ## Installation
 
