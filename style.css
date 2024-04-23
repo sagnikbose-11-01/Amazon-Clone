@@ -385,7 +385,7 @@ nav {
 
 
 
-/*@media only screen and (max-width: 408px){
+@media only screen and (max-width: 408px){
     .bottom{
         justify-content: center;
         flex-direction: column;
@@ -403,4 +403,4 @@ nav {
     .bottom img{
         width: 70px;
     }
-}*/
+}
