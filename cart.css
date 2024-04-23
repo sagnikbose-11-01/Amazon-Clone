@@ -195,3 +195,24 @@
         min-width: 100%;
     }
 }
+
+
+@media only screen and (max-width: 408px){
+    .bottom{
+        justify-content: center;
+        flex-direction: column;
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 367px){
+    .bottom{
+        justify-content: center;
+        flex-direction: column;
+        font-size: 9px;
+    }
+
+    .bottom img{
+        width: 70px;
+    }
+}
