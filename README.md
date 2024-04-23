@@ -14,11 +14,11 @@ You can try out the live demo of the project [here](https://amazon-clone-by-sagn
 - **Image slider with mouse scrolling**: Incorporates an image slider feature that allows users to navigate through images by scrolling with the mouse wheel. This intuitive navigation enhances the user experience by providing a dynamic and interactive way to view content.
 - **Responsive Design**: The website is designed to adapt seamlessly to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
 
-- **Product Details**: Users can view detailed information about products, including images, descriptions, pricing, and customer reviews.
+- **Product Details**: Users can view detailed information about products, including images, descriptions, pricing, and customer ratings.
 
-- **Shopping Cart**: The website includes a shopping cart feature that allows users to add products to their cart and proceed to checkout. The shopping cart page can be accessed via the cart icon on the navigation bar.
+- **Shopping Cart**: The website incorporates a shopping cart functionality where users can view the items they've added, along with a "Proceed to Checkout" button and the subtotal of their selections. The shopping cart page can be accessed via the cart icon on the navigation bar.
 
-- **Sign In and Sign Up**: Users can sign in to their accounts or create new accounts using the sign-in and sign-up pages accessible from the navigation bar.
+- **Sign In and Sign Up**: The website offers frontend layouts for both the sign-in and sign-up pages, with direct access to the sign-in page from the navigation bar. Moreover, clicking the "Create your Amazon account" button below the sign-in section directs users to the sign-up section. Conversely, clicking the "Login with Amazon account" button below the sign-up section redirects users back to the sign-in page.
 
 
 ## Getting Started
