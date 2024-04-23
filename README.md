@@ -28,7 +28,7 @@ To run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/amazon-frontend-clone.git
+   git clone https://github.com/sagnikbose-11-01/Amazon-Clone.git
    ```
 
 2. Navigate to the project directory:
